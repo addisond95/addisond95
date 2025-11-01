@@ -5,7 +5,7 @@ My background in physics and astronomy trained me in computational modeling and 
 ### Current Projects  
 - Automated influenza tracking database and ETL pipeline (Python, Airflow, PostgreSQL) (Spring 2025) 
 - Longitudinal health metrics analysis (Python, SQL) (In progress) 
-- Astrophysical data modeling for globular cluster age estimation (Spring 2023)
+- Astrophysical data modeling for globular cluster age estimation (Fall 2023)
 
 ### Tools & Languages  
 Python | SQL | R | Airflow | PostgreSQL | Flask | Pandas | scikit-learn | Docker  
