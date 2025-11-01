@@ -1,6 +1,7 @@
 # Hi there 👋  
 I'm a Data Science master's student at Johns Hopkins University focusing on machine learning, swarm intelligence, and public health analytics.  
 My background in physics and astronomy trained me in computational modeling and data-driven research.  
+Projects will be added at a later date as able.
 
 ### Current Projects  
 - Automated influenza tracking database and ETL pipeline (Python, Airflow, PostgreSQL) (Spring 2025) 
